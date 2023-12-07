@@ -1,0 +1,11 @@
+com\mycompany\graphtraversal\Graph.class
+com\mycompany\graphtraversal\Kruskal.class
+com\mycompany\graphtraversal\PrimsAlgorithm.class
+com\mycompany\graphtraversal\SecondBestSpanningTree.class
+com\mycompany\graphtraversal\GraphTraversal.class
+com\mycompany\graphtraversal\SecondMstGraph.class
+com\mycompany\graphtraversal\BFS.class
+com\mycompany\graphtraversal\Kruskal$KruskalGraph.class
+com\mycompany\graphtraversal\DFS.class
+com\mycompany\graphtraversal\KruskalAlgorithm.class
+com\mycompany\graphtraversal\SecondGraph.class
